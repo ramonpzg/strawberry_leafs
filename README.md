@@ -1,7 +1,12 @@
 # Strawberry Decease Detection App
 
 
-The main objective of this project is to create an application that can be used to detect deceases in strawberry leaves. It includes,
+## Objective
+
+There are two objectives for this project, one is to create a machine learning model 
+that detects deceases in strawberry leaves, and another is create an application that 
+takes in pictures, runs them through the model, and provides a prediction to the user if 
+the leaf has a decease or not. The project includes,
 - The training code
 - Pointers to the data
 - Pointers to the model
