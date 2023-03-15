@@ -11,3 +11,8 @@ the leaf has a decease or not. The project includes,
 - Pointers to the data
 - Pointers to the model
 - The application code
+
+
+## Demo App
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/strawberry_leafs/HEAD?labpath=%2Fvoila%2Frender%2Fdemo_app.ipynb)
